@@ -1,1 +1,1 @@
-# Repository for interview code questions. 
+# Repository for interview questions
