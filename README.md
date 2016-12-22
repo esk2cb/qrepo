@@ -1,1 +1,1 @@
-# qrepo
+# Repository for interview code questions. 
